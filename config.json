@@ -4,9 +4,45 @@
     "vesionCode": 2,
     "vesionCode": 3
   },
-  "iOS": {
-    "vesionName": "2.0.4",
-    "vesionCode": 2,
-    "vesionCode": 2
-  }
+  "Language": [
+    {
+      "name": "Telugu",
+      "id": "telugu",
+      "url": "",
+      "isActive": true
+    },
+    {
+      "name": "Hindi",
+      "id": "hindi",
+      "url": "",
+      "isActive": true
+    },
+    {
+      "name": "Tamil",
+      "id": "Tamil",
+      "url": "",
+      "isActive": true
+    }
+  ]
+  ,
+  "Topic": [
+    {
+      "name": "Vishnu",
+      "id": "vishnu",
+      "url": "",
+      "isActive": true
+    },
+    {
+      "name": "Ganapati",
+      "id": "ganapati",
+      "url": "",
+      "isActive": true
+    },
+    {
+      "name": "Siva",
+      "id": "siva",
+      "url": "",
+      "isActive": true
+    }
+  ]
 }
