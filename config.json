@@ -1,8 +1,7 @@
 {
   "AppConfig": {
-    "vesionName": "2.0.4",
-    "vesionCode": 2,
-    "vesionCode": 3
+    "versionName": "2.0.4",
+    "versionCode": 2
   },
   "Language": [
     {
