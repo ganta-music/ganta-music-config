@@ -21,6 +21,12 @@
       "id": "Tamil",
       "url": "",
       "isActive": true
+    },
+    {
+      "name": "Kannada",
+      "id": "kannada",
+      "url": "",
+      "isActive": true
     }
   ],
   "Topic": [
