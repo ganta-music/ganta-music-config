@@ -65,6 +65,12 @@
       "id": "ayyappa",
       "url": "https://lh3.googleusercontent.com/-E_AvWxz3BaI/YKDHlORA0zI/AAAAAAAAADw/5J1DMRcsuPYAjh56tzRRkZFSuV47VFwqQCLcBGAsYHQ/w640-h640/image.png",
       "isActive": true
+    },
+    {
+      "name": "Chaganti",
+      "id": "chaganti",
+      "url": "https://lh3.googleusercontent.com/-sN2rlpiA3Ew/YKEUMEdZaeI/AAAAAAAAAD8/Iy0g4AHxnZ8Kll0eC3k4re1ArYoQ4iBDQCLcBGAsYHQ/w640-h384/image.png",
+      "isActive": true
     }
   ]
 }
