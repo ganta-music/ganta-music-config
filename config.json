@@ -47,6 +47,12 @@
       "id": "siva",
       "url": "https://lh3.googleusercontent.com/-ayNXe1ZjcRQ/YKBXAeLMoHI/AAAAAAAAADA/dP0xcE-7te8wL7Vm7LSPSVbo5M-PwnJdwCLcBGAsYHQ/w640-h640/image.png",
       "isActive": true
+    },
+    {
+      "name": "Murugan",
+      "id": "murugan",
+      "url": "https://lh3.googleusercontent.com/-E_AvWxz3BaI/YKDHlORA0zI/AAAAAAAAADw/5J1DMRcsuPYAjh56tzRRkZFSuV47VFwqQCLcBGAsYHQ/w640-h640/image.png",
+      "isActive": true
     }
   ]
 }
