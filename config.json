@@ -71,6 +71,12 @@
       "id": "chaganti",
       "url": "https://lh3.googleusercontent.com/-sN2rlpiA3Ew/YKEUMEdZaeI/AAAAAAAAAD8/Iy0g4AHxnZ8Kll0eC3k4re1ArYoQ4iBDQCLcBGAsYHQ/w640-h384/image.png",
       "isActive": true
+    },
+    {
+      "name": "Krishna",
+      "id": "krishna",
+      "url": "https://lh3.googleusercontent.com/-sN2rlpiA3Ew/YKEUMEdZaeI/AAAAAAAAAD8/Iy0g4AHxnZ8Kll0eC3k4re1ArYoQ4iBDQCLcBGAsYHQ/w640-h384/image.png",
+      "isActive": true
     }
   ]
 }
