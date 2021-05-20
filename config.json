@@ -64,7 +64,7 @@
     {
       "name": "Ayyappa",
       "id": "ayyappa",
-      "url": "https://lh3.googleusercontent.com/-cvJIoA2QXvo/YKDGBck69TI/AAAAAAAAADM/xdCKSCm7jy4lrDPfxKpvkdCwuLqY0MEMgCLcBGAsYHQ/w640-h640/image.png",
+      "url": "https://lh3.googleusercontent.com/-foFAPk8dA3c/YKYg6f1LTUI/AAAAAAAAAFI/qwYSqdnEbOIlEjmM-sykzK79-20TM7GlQCLcBGAsYHQ/w640-h336/image.png",
       "isActive": true
     },
     {
@@ -82,7 +82,13 @@
     {
       "name": "Rama",
       "id": "rama",
-      "url": "https://lh3.googleusercontent.com/-7REZB4aqpiA/YKYa1ODA6SI/AAAAAAAAAEY/Dd-J_9yNWQciSFe-fNq84an6mpgk62VbgCLcBGAsYHQ/w640-h531/image.png",
+      "url": "https://lh3.googleusercontent.com/-pBcv7PB8t2M/YKYeKC2IZoI/AAAAAAAAAE0/4plyU0LdujASccJPn2C8mrx5aVzSiDkrwCLcBGAsYHQ/w640-h480/image.png",
+      "isActive": true
+    },
+    {
+      "name": "Hanuman",
+      "id": "hanuman",
+      "url": "https://lh3.googleusercontent.com/-MxTvQdOA1P8/YKYfa6RIdTI/AAAAAAAAAFA/MlajRLYQsU8IYdneYC-J_mMsx0RArxWoQCLcBGAsYHQ/w640-h342/image.png",
       "isActive": true
     }
   ]
