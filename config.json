@@ -1,7 +1,8 @@
 {
   "AppConfig": {
-    "versionName": "2.0.4",
-    "versionCode": 2
+    "versionName": "1.0.1",
+    "versionCode": 1,
+    "contentType": "content-type-dinamic"
   },
   "Language": [
     {
@@ -75,7 +76,13 @@
     {
       "name": "Krishna",
       "id": "krishna",
-      "url": "https://lh3.googleusercontent.com/-sN2rlpiA3Ew/YKEUMEdZaeI/AAAAAAAAAD8/Iy0g4AHxnZ8Kll0eC3k4re1ArYoQ4iBDQCLcBGAsYHQ/w640-h384/image.png",
+      "url": "https://lh3.googleusercontent.com/-e2Q2DLbhkVo/YKBVcmRBXyI/AAAAAAAAAC4/0Kh3e-vqcA8-Kt7piy4rMBCvfrS_nSF9QCLcBGAsYHQ/w640-h640/image.png",
+      "isActive": true
+    },
+    {
+      "name": "Rama",
+      "id": "rama",
+      "url": "https://lh3.googleusercontent.com/-dq3r227lvNI/YKYZ-T2m82I/AAAAAAAAAEQ/WE19OjOW7joAeuEHnmxZ2TelQTY4r3BBQCLcBGAsYHQ/w640-h426/image.png",
       "isActive": true
     }
   ]
