@@ -90,6 +90,12 @@
       "id": "hanuman",
       "url": "https://lh3.googleusercontent.com/-MxTvQdOA1P8/YKYfa6RIdTI/AAAAAAAAAFA/MlajRLYQsU8IYdneYC-J_mMsx0RArxWoQCLcBGAsYHQ/w640-h342/image.png",
       "isActive": true
+    },
+    {
+      "name": "Durga",
+      "id": "hanuman",
+      "url": "https://lh3.googleusercontent.com/-EukwBe0wdHA/YKYl--bJHyI/AAAAAAAAAFg/N4BsYL8n-TwSlEIKLdGs5L4h42TGoEQWACLcBGAsYHQ/w640-h640/image.png",
+      "isActive": true
     }
   ]
 }
