@@ -96,6 +96,12 @@
       "id": "durga",
       "url": "https://lh3.googleusercontent.com/-IM_Ztacxovg/YKY13umr0cI/AAAAAAAAAGw/m2InQJAhxPwFvkpT2y9C5iSnEpDk4H0-QCLcBGAsYHQ/w640-h640/image.png",
       "isActive": true
+    },
+    {
+      "name": "Baba",
+      "id": "baba",
+      "url": "https://lh3.googleusercontent.com/-2HrI-3fJHyk/YKZBWiLNgDI/AAAAAAAAAHw/9l8XUxKobdcxux8vejYgwZLKyEdyK30jgCLcBGAsYHQ/w640-h640/baba.png",
+      "isActive": true
     }
   ]
 }
