@@ -2,7 +2,7 @@
   "AppConfig": {
     "versionName": "1.0.1",
     "versionCode": 1,
-    "contentType": "content-type-dynamic"
+    "contentType": "content-type-static"
   },
   "Language": [
     {
