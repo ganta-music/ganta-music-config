@@ -48,7 +48,7 @@
     {
       "name": "Ganapati",
       "id": "ganapati",
-      "url": "https://lh3.googleusercontent.com/-CX5-OxFYdKU/YKY0tEApjFI/AAAAAAAAAGU/JfmJoK0Wt0oH-j_OFyL6ZlBaINfKJN39ACLcBGAsYHQ/w640-h640/ghanesha.png",
+      "url": "https://lh3.googleusercontent.com/-nKATpMSdK6c/YLpE_S9-a6I/AAAAAAAAAJs/wicS-lwBQPUU0cseGhNwrbH5Ry0PNxwpACLcBGAsYHQ/w640-h640/ghanesha2.png",
       "isActive": true
     },
     {
@@ -103,6 +103,36 @@
       "name": "Baba",
       "id": "baba",
       "url": "https://lh3.googleusercontent.com/-2HrI-3fJHyk/YKZBWiLNgDI/AAAAAAAAAHw/9l8XUxKobdcxux8vejYgwZLKyEdyK30jgCLcBGAsYHQ/w640-h640/baba.png",
+      "isActive": true
+    },
+    {
+      "name": "Saraswati",
+      "id": "saraswati",
+      "url": "https://lh3.googleusercontent.com/-gCeV0sUubCE/YLpE_C9x2bI/AAAAAAAAAJw/SW1zAyxvl5ksEEssgu_FsR7H5urSJYITwCLcBGAsYHQ/w640-h640/saraswati.png",
+      "isActive": true
+    },
+    {
+      "name": "Lakshmi",
+      "id": "lakshmi",
+      "url": "https://lh3.googleusercontent.com/-SeBFwRd-u1U/YLpE_YDhgrI/AAAAAAAAAJ0/8NrnZFqs9hkPVbTJa7cEEj2DXANTpRcJgCLcBGAsYHQ/w640-h640/lakshmi.png",
+      "isActive": true
+    },
+    {
+      "name": "Dattatreya",
+      "id": "dattatreya",
+      "url": "https://lh3.googleusercontent.com/-YO_niJEUcWo/YLpE_G9RpYI/AAAAAAAAAJk/ZdGPUSC4pSEzWzWyDbpBHDq4iRP6MmlXgCLcBGAsYHQ/w640-h640/dattatreya.png",
+      "isActive": true
+    },
+    {
+      "name": "Surya",
+      "id": "dattatreya",
+      "url": "https://lh3.googleusercontent.com/-vLu3451zhFs/YLpE_ef__dI/AAAAAAAAAJ4/iEohpd4BxbMaA4KrfcdXi-rr6abp201rgCLcBGAsYHQ/w640-h640/surya.png",
+      "isActive": true
+    },
+    {
+      "name": "Shani",
+      "id": "shani",
+      "url": "https://lh3.googleusercontent.com/-6VlF2l7GTww/YLpE_OnNBCI/AAAAAAAAAJo/hmAEj3DkTkAp-5M_Xs6lQEmiwytK4xl7ACLcBGAsYHQ/w640-h640/shani.png",
       "isActive": true
     }
   ]
