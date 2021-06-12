@@ -4,6 +4,7 @@
     "versionCode": 2,
     "contentType": "content-type-dynamic",
     "forceUpdate": false,
+    "enableDonation": false,
     "updateMessage": "New update (v1.0.2) contains performance improvements and bugfixes.",
     "donationMessage": "Are you really enjoying the 'GANTA Music' app? - - If So Please give us your financial support to develop new features and to get more audios from us. -Donate and get below features as bonus - -1. Offline support -2. Resume position support -3. Chromecast support"
   },
