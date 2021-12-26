@@ -1,12 +1,12 @@
 {
   "AppConfig": {
-    "versionName": "1.0.2",
-    "versionCode": 2,
+    "versionName": "1.0.12",
+    "versionCode": 12,
     "contentType": "content-type-dynamic",
     "forceUpdate": false,
     "enableDonation": false,
     "enableWallpaperLane": false,
-    "updateMessage": "New update (v1.0.2) contains performance improvements and bugfixes.",
+    "updateMessage": "New update (v1.0.12) contains performance improvements and bugfixes.",
     "donationMessage": "Are you really enjoying the 'GANTA Music' app? - - You can support us to develop new features and devotional audios."
   },
   "Language": [
