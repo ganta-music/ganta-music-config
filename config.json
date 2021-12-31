@@ -39,6 +39,12 @@
       "id": "sanskrit",
       "url": "",
       "isActive": true
+    },
+    {
+      "name": "Malayalam",
+      "id": "malayalam",
+      "url": "",
+      "isActive": true
     }
   ],
   "Topic": [
