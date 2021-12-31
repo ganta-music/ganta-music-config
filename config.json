@@ -33,6 +33,12 @@
       "id": "kannada",
       "url": "",
       "isActive": true
+    },
+    {
+      "name": "Sanskrit",
+      "id": "sanskrit",
+      "url": "",
+      "isActive": true
     }
   ],
   "Topic": [
