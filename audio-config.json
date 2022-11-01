@@ -1,0 +1,20 @@
+{
+  "audios": [
+    {
+      "id": 1,
+      "title": "Venkateswara Suprabhatham",
+      "imageUrl": "https://i.pinimg.com/564x/5d/92/d1/5d92d16439778e98d91645e52b103583.jpg",
+      "audioUrl": "https://raw.githubusercontent.com/ganta-music/ganta-music-config/main/audios/audio1.mp3",
+      "duration": "20:30",
+      "size": 764176
+    },
+    {
+      "id": 1,
+      "title": "Venkateswara Suprabhatham",
+      "imageUrl": "https://i.pinimg.com/564x/5d/92/d1/5d92d16439778e98d91645e52b103583.jpg",
+      "audioUrl": "https://raw.githubusercontent.com/ganta-music/ganta-music-config/main/audios/audio2.mp3",
+      "duration": "20:30",
+      "size": 764176
+    }
+  ]
+}
