@@ -2,7 +2,7 @@
   "AppConfig": {
     "versionName": "1.0.16",
     "versionCode": 16,
-    "contentType": "content-type-dynamic",
+    "contentType": "content-type-static",
     "forceUpdate": false,
     "enableDonation": false,
     "enableWallpaperLane": false,
