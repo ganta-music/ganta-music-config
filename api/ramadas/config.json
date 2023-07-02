@@ -1,0 +1,70 @@
+{
+  "isAppInMaintenance": false,
+  "maintenanceMessage": "",
+  "bottomTabs": [
+    {
+      "title":"Home",
+      "view":"HomeTabView",
+      "icon":"home"
+    },
+    {
+      "title":"Articles",
+      "view":"DynamicTabsView",
+      "icon":"document",
+      "tabs": [
+        {
+          "id":"spiritual",
+          "title":"Spiritual",
+          "enable":true
+        },
+        {
+          "id":"indian_history",
+          "title":"Indian History",
+          "enable":true
+        },
+        {
+          "id":"ancient_temples",
+          "title":"Ancient Temples",
+          "enable":true
+        },
+        {
+          "id":"freedom_fighters",
+          "title":"Freedom Fighters",
+          "enable":true
+        }
+      ]
+    },
+    {
+      "title":"Media",
+      "view":"DynamicTabsView",
+      "icon":"video_sqr",
+      "tabs": [
+        {
+          "id":"youtube",
+          "title":"Youtube",
+          "enable":true
+        },
+        {
+          "id":"videos",
+          "title":"Videos",
+          "enable":true
+        },
+        {
+          "id":"audios",
+          "title":"Audios",
+          "enable":true
+        },
+        {
+          "id":"images",
+          "title":"Images",
+          "enable":true
+        }
+      ]
+    },
+    {
+      "title":"Profile",
+      "view":"ProfileTabView",
+      "icon":"user"
+    }
+  ]
+}
